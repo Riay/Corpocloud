@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CorpoCloudNotes" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#0D47A1</item>
+        <item name="colorPrimaryVariant">#1565C0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CorpoCloud Notes</string>
+    <string name="add_note">Agregar apunte</string>
+    <string name="list_notes">Listado de apuntes</string>
+</resources>
